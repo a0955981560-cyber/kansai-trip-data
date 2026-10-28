@@ -19,12 +19,29 @@
       ]
     },
     {
-      "id": "exp_1793171832723",
-      "amount": 2000000,
+      "id": "exp_1793171833900",
+      "amount": 400,
       "currency": "JPY",
       "category": "餐飲美食",
-      "title": "我來討債",
-      "payer": "小凱媛",
+      "title": "小薇的玻璃心",
+      "payer": "栗子",
+      "splitAmong": [
+        "栗子",
+        "小凱媛",
+        "小薇",
+        "承惠",
+        "偉凱",
+        "秉衡",
+        "修哥"
+      ]
+    },
+    {
+      "id": "exp_1793171861369",
+      "amount": 400,
+      "currency": "JPY",
+      "category": "餐飲美食",
+      "title": "小薇的玻璃心",
+      "payer": "栗子",
       "splitAmong": [
         "栗子",
         "小凱媛",
