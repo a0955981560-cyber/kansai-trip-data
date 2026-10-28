@@ -1,22 +1,4 @@
 {
   "roomName": "分帳房間 (1223)",
-  "expenses": [
-    {
-      "id": "exp_1793171999657",
-      "amount": 20000000,
-      "currency": "JPY",
-      "category": "餐飲美食",
-      "title": "討債",
-      "payer": "小凱媛",
-      "splitAmong": [
-        "栗子",
-        "小凱媛",
-        "小薇",
-        "承惠",
-        "偉凱",
-        "秉衡",
-        "修哥"
-      ]
-    }
-  ]
+  "expenses": []
 }
