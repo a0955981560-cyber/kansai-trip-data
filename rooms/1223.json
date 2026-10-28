@@ -1,4 +1,22 @@
 {
   "roomName": "分帳房間 (1223)",
-  "expenses": []
+  "expenses": [
+    {
+      "id": "exp_1793202697154",
+      "title": "民宿",
+      "amount": 17360,
+      "currency": "TWD",
+      "payer": "秉衡",
+      "category": "住宿雜項",
+      "splitAmong": [
+        "栗子",
+        "小凱媛",
+        "小薇",
+        "承惠",
+        "偉凱",
+        "秉衡",
+        "修哥"
+      ]
+    }
+  ]
 }
