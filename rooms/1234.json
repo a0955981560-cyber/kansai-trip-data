@@ -17,6 +17,36 @@
         "修哥"
       ],
       "currency": "JPY"
+    },
+    {
+      "id": "exp_1793201015498",
+      "title": "壽司",
+      "amount": 1400,
+      "payer": "小薇",
+      "category": "餐飲美食",
+      "splitAmong": [
+        "栗子",
+        "小凱媛",
+        "小薇",
+        "秉衡",
+        "修哥"
+      ],
+      "currency": "JPY"
+    },
+    {
+      "id": "exp_1793201019136",
+      "title": "壽司",
+      "amount": 1400,
+      "payer": "小薇",
+      "category": "餐飲美食",
+      "splitAmong": [
+        "栗子",
+        "小凱媛",
+        "小薇",
+        "秉衡",
+        "修哥"
+      ],
+      "currency": "JPY"
     }
   ]
 }
