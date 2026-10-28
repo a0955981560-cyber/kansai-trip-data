@@ -1,4 +1,22 @@
 {
   "roomName": "分帳房間 (1223)",
-  "expenses": []
+  "expenses": [
+    {
+      "id": "exp_1793192359177",
+      "title": "燒肉",
+      "amount": 200009,
+      "payer": "栗子",
+      "category": "餐飲美食",
+      "splitAmong": [
+        "栗子",
+        "小凱媛",
+        "小薇",
+        "承惠",
+        "偉凱",
+        "秉衡",
+        "修哥"
+      ],
+      "currency": "JPY"
+    }
+  ]
 }
