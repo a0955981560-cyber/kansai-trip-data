@@ -2,23 +2,6 @@
   "roomName": "分帳房間 (1234)",
   "expenses": [
     {
-      "id": "exp_1793200979392",
-      "title": "燒肉",
-      "amount": 200,
-      "payer": "栗子",
-      "category": "餐飲美食",
-      "splitAmong": [
-        "栗子",
-        "小凱媛",
-        "小薇",
-        "承惠",
-        "偉凱",
-        "秉衡",
-        "修哥"
-      ],
-      "currency": "JPY"
-    },
-    {
       "id": "exp_1793201019136",
       "title": "壽司",
       "amount": 1400,
