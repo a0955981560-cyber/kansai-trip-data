@@ -17,6 +17,20 @@
         "修哥"
       ],
       "currency": "JPY"
+    },
+    {
+      "id": "exp_1793192526482",
+      "title": "好啊",
+      "amount": 72828,
+      "payer": "秉衡",
+      "category": "餐飲美食",
+      "splitAmong": [
+        "栗子",
+        "小凱媛",
+        "承惠",
+        "偉凱"
+      ],
+      "currency": "JPY"
     }
   ]
 }
