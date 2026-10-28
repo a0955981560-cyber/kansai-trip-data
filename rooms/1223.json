@@ -31,21 +31,6 @@
         "偉凱"
       ],
       "currency": "JPY"
-    },
-    {
-      "id": "exp_1793199478059",
-      "title": "嘻嘻",
-      "amount": 8897,
-      "payer": "小薇",
-      "category": "餐飲美食",
-      "splitAmong": [
-        "栗子",
-        "小凱媛",
-        "小薇",
-        "秉衡",
-        "修哥"
-      ],
-      "currency": "JPY"
     }
   ]
 }
