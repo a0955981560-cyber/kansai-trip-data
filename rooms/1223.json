@@ -89,6 +89,18 @@
       "splitAmong": [
         "栗子"
       ]
+    },
+    {
+      "id": "exp_1793203859145",
+      "title": "和服-女生-化妝",
+      "amount": 6454,
+      "currency": "TWD",
+      "payer": "秉衡",
+      "category": "門票購物",
+      "splitAmong": [
+        "小凱媛",
+        "小薇"
+      ]
     }
   ]
 }
