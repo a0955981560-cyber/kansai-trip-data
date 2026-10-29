@@ -103,7 +103,10 @@
       "category": "門票購物",
       "splitAmong": [
         "栗子"
-      ]
+      ],
+      "paidStatus": {
+        "栗子": true
+      }
     },
     {
       "id": "exp_1793203859145",
