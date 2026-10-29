@@ -1,13 +1,34 @@
 {
   "roomName": "分帳房間 (1223)",
   "members": [
-    "栗子",
-    "小凱媛",
-    "小薇",
-    "承惠",
-    "偉凱",
-    "秉衡",
-    "修哥"
+    {
+      "name": "栗子",
+      "active": true
+    },
+    {
+      "name": "小凱媛",
+      "active": false
+    },
+    {
+      "name": "小薇",
+      "active": true
+    },
+    {
+      "name": "承惠",
+      "active": true
+    },
+    {
+      "name": "偉凱",
+      "active": true
+    },
+    {
+      "name": "秉衡",
+      "active": true
+    },
+    {
+      "name": "修哥",
+      "active": true
+    }
   ],
   "expenses": [
     {
