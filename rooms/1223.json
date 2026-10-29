@@ -39,7 +39,7 @@
         "修哥"
       ],
       "paidStatus": {
-        "栗子": false,
+        "栗子": true,
         "小凱媛": false
       }
     },
