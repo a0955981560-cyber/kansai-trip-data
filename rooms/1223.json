@@ -56,7 +56,7 @@
         "小薇"
       ],
       "paidStatus": {
-        "小凱媛": false,
+        "小凱媛": true,
         "小薇": false
       }
     },
